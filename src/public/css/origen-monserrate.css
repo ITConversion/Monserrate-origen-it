@@ -1602,7 +1602,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 80%;
+  width: 100%;
   -webkit-box-align: end;
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
