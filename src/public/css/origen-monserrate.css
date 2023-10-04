@@ -780,6 +780,8 @@
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 30px;
+  display: inline-block;
+  overflow: visible;
 }
 
 .menuplanos.w--current:hover {
@@ -814,6 +816,7 @@
 
 .alcobas {
   color: #00acba;
+  margin-bottom: 5px;
   font-size: 16px;
   font-weight: 700;
 }
@@ -1558,7 +1561,7 @@
 .div-block-22 {
   width: 100%;
   height: 100%;
-  background-image: url('../images/ba1.jpg');
+  background-image: url('../images/banner.webp');
   background-position: 50% 70%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1602,6 +1605,10 @@
 
 .texto-precio {
   font-size: 24px;
+  line-height: 1.2em;
+}
+
+.bold-text-3 {
   line-height: 1.2em;
 }
 
@@ -2347,7 +2354,7 @@
 
   .div-block-10 {
     align-items: center;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-left: 0;
     padding-right: 0;
   }
@@ -2635,6 +2642,11 @@
     z-index: 0;
     width: 18%;
     margin-top: 220px;
+  }
+
+  .div-block-22 {
+    height: 200px;
+    margin-bottom: 0;
   }
 
   .text-block-9, .text-span-9 {
