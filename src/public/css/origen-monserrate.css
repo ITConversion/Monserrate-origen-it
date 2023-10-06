@@ -648,6 +648,7 @@
 }
 
 .tituloinversion {
+  width: auto;
   color: #fff;
   text-align: left;
   text-transform: none;
