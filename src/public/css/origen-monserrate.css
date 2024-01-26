@@ -1648,6 +1648,7 @@
 }
 
 .image-13 {
+  display: none;
   width: 320px;
   display: inline-block;
   position: static;
